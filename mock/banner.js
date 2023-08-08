@@ -6,7 +6,7 @@ export const bannerContent = [
     imgSrc: "/images/banners-img/home1.png",
     imgWidth: 980,
     imgHeight: 500,
-    numberOfDiscountDate: 9,
+    numberOfDiscountDate: 91,
     href: "/",
   },
   {
